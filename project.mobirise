@@ -1,0 +1,2537 @@
+{
+  "settings": {
+    "name": "rlecohome.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#6cb6de"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 91,
+    "versionPublish": "4.9.6",
+    "favicon": "@PROJECT_PATH@/assets/images/eco-home-leaf-128x128-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "WoodenDoors.html": {
+      "settings": {
+        "title": "Wooden doors",
+        "meta_descr": "Wooden Doors - Teak, Pine, Babool, Kalbagi, Acecia\n",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1d",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20170309-wa0050-677x1280.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Wooden Doors &amp; Furnitures",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Choose your design and wood for customized doors, sofas, tables etc....</p><p>Pinewood Doors and frames best for houses and industries. \rBest natural look and it can be polished as per the theme. &nbsp;There’s quite a range in density and strength when it comes to  Pinewood. The Soft Pines is characterized by pines with a low density, even grains and a gradual earlywood to latewood transition. The Hard Pines is a little contrast of the soft pines, not only in obvious areas of hardness and density, but also in regards to earlywood to latewood transition, and grain evenness.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "Blogs": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Blogs",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-22",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-23",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-25",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "EASY TO USE!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Blogs page</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "designerworks.Designer works": {
+      "settings": {
+        "title": "Designer works",
+        "meta_descr": "Web Site Maker Description",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-w",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WOODEN DOORS &amp; DESIGNER WORKS",
+          "text": "Sellect your design and customized works. We will recreate the work.<br>Send the desired pictures for web world. &nbsp;<br>Contact us - Click here to fill the form.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://www.pinterest.com/explore/wood-design/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALLERY1 CHOOSE IDEAS &amp; SHARE V DELIVER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://in.pinterest.com/pin/800655639973706753/?lp=true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALLERY 2 DESIGNER DOORS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "designerw2.Gallery link": {
+      "settings": {
+        "title": "Designer w2",
+        "meta_descr": "Web Site Maker Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#41a85f"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header4-13",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "WOODEN DOORS &amp; DESIGNER WORKS",
+          "text": "<b>Sellect your design and customized works. We will recreate the work.<br>Send the desired pictures for web world.  <br>Contact us - <a href=\"https://drive.google.com/open?id=1yrkdJKiedb5YeAcrPkA_ns9Ag_jARTa0Bgtg28Ovys8\">Click here </a>to fill the form.&nbsp;</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://in.pinterest.com/search/pins/?q=teak%20and%20other%20wood%20doors&amp;rs=typed&amp;term_meta[]=teak%20and%20other%20wood%20doors%7Ctyped\" data-toolbar=\"-mbrBtnMove\">GALLERY 1 DESIGNER WORKS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://in.pinterest.com/pin/800655639973706753/?lp=true\" data-toolbar=\"-mbrBtnMove\">GALLERY 2 DESIGNER DOORS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"Factory works\" data-toolbar=\"-mbrBtnMove\">GALLERY - View our handmade works</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-y",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-14",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://in.pinterest.com/search/pins/?q=kitchen%20cutting%20boards&amp;rs=typed&amp;term_meta[]=kitchen%7Ctyped&amp;term_meta[]=cutting%7Ctyped&amp;term_meta[]=boards%7Ctyped\" data-toolbar=\"-mbrBtnMove\">GALLERY - Kitchen Cutting Boards</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://in.pinterest.com/search/pins/?rs=ac&amp;len=2&amp;q=end%20grain%20cutting%20board&amp;eq=end%20gra&amp;etslf=8853&amp;term_meta[]=end%7Cautocomplete%7Cundefined&amp;term_meta[]=grain%7Cautocomplete%7Cundefined&amp;term_meta[]=cutting%7Cautocomplete%7Cundefined&amp;term_meta[]=board%7Cautocomplete%7Cundefined\" data-toolbar=\"-mbrBtnMove\">GALLERY - End Grain Boards</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY - Areca Leaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Factory works\" data-toolbar=\"-mbrBtnMove\">GALLERY - View our handmade works</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Mangallore, Karnataka",
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "upcomingworks.html": {
+      "settings": {
+        "title": "Upcoming page",
+        "meta_descr": "Designer doors made of solid wood - (Flush doors and veneers) Consists of neemwood amd pinewood. \n",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-26",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-27",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rivera-lofts-2-333x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Riviera lofts<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><i>Soon you will find &nbsp;more information.&nbsp;</i></b></p><p>Write to us with desire work and sample designs, we will respond at the earliest.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://drive.google.com/open?id=1yrkdJKiedb5YeAcrPkA_ns9Ag_jARTa0Bgtg28Ovys8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Write to us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-28",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "navi.Areca leaf": {
+      "settings": {
+        "title": "Navigation",
+        "meta_descr": "Web Site Maker Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-15",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "designerdoors.Designer doors": {
+      "settings": {
+        "title": "Dessigner doors",
+        "meta_descr": "Designer doors made of solid wood - (Flush doors and veneers) Consists of neemwood amd pinewood. \n",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1u",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1v",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/door-1-1400x3055.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Designer doors",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Choose your design from exsiting gallery, standard sizes are availaible.&nbsp;</p><p>Flush doors with teak venner Doors and frames best for houses and industries. \nBest natural look and it can be polished as per the theme. &nbsp;There’s quite a range in density and strength when it comes to flush doors of Pinewood and neem wood.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://in.pinterest.com/pin/800655639973706753/?lp=true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Choose from the web gallery and share the design</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "boards.Factory works": {
+      "settings": {
+        "title": " Boards",
+        "meta_descr": "Website Builder Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "caption": "Neem &amp; Teak wood Board",
+                "thumb": "@PROJECT_PATH@/assets/images/cuttingboard-mainsquare-1024x1024-8-600x600-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/cuttingboard-mainsquare-1024x1024-8-600x600.png",
+                "active": false
+              },
+              {
+                "caption": "Neem Finger Joint Cutting Board",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170318-wa0030-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170318-wa0030-2000x2666.jpg",
+                "active": false
+              },
+              {
+                "caption": "Neem board and Block",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170406-193935-copy-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170406-193935-copy-2000x1500.jpg",
+                "active": false
+              },
+              {
+                "caption": "Tembrind Cutting Board",
+                "thumb": "@PROJECT_PATH@/assets/images/tembrin-22-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tembrin-22-2000x2000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Tembrind Round Cutting Board",
+                "thumb": "@PROJECT_PATH@/assets/images/tembrin-blk-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tembrin-blk-2-2000x2000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Tembrind butcher cutting Chopping Board",
+                "thumb": "@PROJECT_PATH@/assets/images/tembrin-blk-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tembrin-blk-2000x2666.jpg",
+                "active": false
+              },
+              {
+                "caption": "Tembrind &amp; Neem butcher small Chopping Boards",
+                "thumb": "@PROJECT_PATH@/assets/images/neem-blocks-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/neem-blocks-2000x2000.jpg",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-f",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Blogs.html": {
+      "settings": {
+        "title": "Blogs",
+        "meta_descr": "Designer doors made of solid wood - (Flush doors and veneers) Consists of neemwood amd pinewood. \n",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2a",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2b",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rivera-lofts-2-333x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Riviera lofts<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><i>Soon you will find blogs from our expert team</i></b></p><p>&nbsp;<br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://in.pinterest.com/pin/800655639973706753/?lp=true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Choose from the web gallery and share the design</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-2c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "RL Eco Home Decor",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "B": {
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "12px",
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "H1": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Riviera Lofts&nbsp;<br>",
+          "text": "<br>Terrace, Balcony, Vertical Walls &amp; Yards Gardening. Eco Friendly Internal &amp; Externl Decor Works. <br><br>A unique thought to promote GoGreen and to be eco friendly, &nbsp;we are a group of individuals nature lovers. &nbsp;<br>Make your Terrace or balcony or vertical wall &nbsp;or yard Vegetable/Flower Garden, it is easy if you’ll do this with some planning. &nbsp;Connect us for tips to grow a Organic Terrace Garden giving good yields throughout all seasons. And If you’re looking for practical as well as stylish way to make a terrace vegetable or flower garden, we are here at your service. &nbsp;&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#content5-3\" data-toolbar=\"-mbrBtnMove\">Connect Us</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fiber-pots-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Gardening Pots and OV bags&nbsp;",
+          "caption1": "Variety of pots and custom designed pots, &nbsp;Eco friendly bags, <br>Wooden, Mud,Fiber glass pots.&nbsp;We also help to use house hold items to utilize in your home gardening.&nbsp;<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/terrace-gardning-77-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Terrace Gardening<br>Organic",
+          "caption2": "Bio bloom or UV Open top Grow bags - <br>&nbsp;Vegetable plants like tomatoes, chillies, green spinach and creeper veggies.<br>We have a starter kit, guidance and service.&nbsp;<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/starter-kit-2-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Kitchen Garden Starter kit",
+          "caption3": "To start your Kitchen Garden a Starter Kit&nbsp;Contains 4 nos. of Coco peat &amp; UV Open top Grow bags, Soil, Neem Pellets,&nbsp;Organic Manure, &amp; Pesticide, Hybrid Vegetable seeds.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/institutional-gardening-1-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "&nbsp;Maintenance &nbsp;&amp; Contracts &nbsp;",
+          "caption4": "We undertake Institutional &nbsp;and corporate plant and garden mainenance service.<br>Organic farming, home gardening and guidance.&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/interior-works-600x1259.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Interior works, 3D Designs",
+          "caption5": "Customized wooden doors, Furnitures, Interior works, Exterior designs. Natural seasoned wood and termite proof plywood like Pinewood, Teak, Neem and other species.&nbsp;<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/home-ayotmation-600x1250.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Automation &amp; Aquarium setup&nbsp;",
+          "caption6": "Customized LED's, Home theater systems, Auto detectors for garden watering, security gates, reminders and other &nbsp;severel other home automation works. &nbsp;<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1l",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wooden-vvvv-doors-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Wooden Doors (Various species)<br>Teak, Babools<br>&nbsp;",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/designer-doors-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Designer Doors (Flush doors with veneers and laminations)",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://in.pinterest.com/pin/800655639973706753/?lp=true\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fiber-galss-doors-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Fiber Glass Doors (100% waterproof, best for external and Internal use)",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"Gallery link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/micro-coated-doors-water-proof-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Micro Coated or Laminated Doors (100% water proof Doors)",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pvc-moulded-doors-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "PVC Moulded solid Door for Bathrooms<br>&nbsp;",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/membrane-doors-600x1120.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Skin &amp; Stell Membrane Doors (Neem Wood - Termite proof) &nbsp;",
+          "caption6": "",
+          "button6": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "features1-7",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/neem-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Neem and Temarind &nbsp;- Kitchen Cutting &amp; Chopping Boards<br><br>&nbsp;",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> ",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/engrain-boards-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\">End-Grain Boards &amp; Joint Boards</span><br><span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\"><br></span><br><br><br>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a> ",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pinewood-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Pinewood Sizes<br><span style=\"font-weight: normal;\">Best for interior and exterior&nbsp;<br>works</span><br><br><span style=\"font-weight: normal;\"><br></span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/areca-rebaggase-600x1263.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Areca Leaf <br><span style=\"font-weight: normal;\">Non-toxic while in use and decompose back into the soil.</span><br><br>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-rebaggase-304x640.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "<span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\">Rebaggase</span><br><span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\"><span style=\"font-weight: normal;\">Natural fiber products and it biodegrades in 30-60 days</span>.</span><span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\"><br></span><br>",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/garden-304x640.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Customize your Garden, space constraints<br><br><br>&nbsp;",
+          "caption6": "",
+          "button6": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Gardening, Interior &amp; Exterior Works",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>We have a team to consult, design, source and implement the entire end to end work. &nbsp;Our works are a combination of eco friendly products</li><li>&nbsp;Terrace, Balcony flower and organic vegitable gardens</li><li>Interior woks - Houses, offices and Institutes</li><li>Home Decoration - Creating Eco friendly environments,&nbsp;<span style=\"font-size: 17px;\">Aquariums, Natural self watering plants</span></li><li><span style=\"font-size: 17px;\">LED lights, Home theater systems and Automation works&nbsp;</span></li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Metro Woods, \nBangallore, Karnataka\n",
+              "placeId": "",
+              "state": "loading"
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>RT Nagar, &nbsp;Bangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: cmo@rlecohome.com rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "terrace.html": {
+      "settings": {
+        "title": "Terrace gardening",
+        "meta_descr": "Designer doors made of solid wood - (Flush doors and veneers) Consists of neemwood amd pinewood. \n",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2e",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Homeindex.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RL ECO HOME<br>\"Joy of Living\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#content5-3\">ABOUT US</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blogs.html\">BLOGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Homeindex.html#contacts2-5\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALLERY</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2f",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rivera-lofts-2-333x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Riviera lofts<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><i>A beginner’s guide to organic terrace gardening: What do you need to get started. <a href=\"https://docs.google.com/document/d/1HMbd_DUm0ZMgSTEr6kVJA15TZasB54qjbh9I1fa4pk4/edit?usp=sharing\">Click here</a></i></b></p><p>We have a starter kit to start your garden with local service and guide, as well as regular maintenance services.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.google.co.in/search?q=terrace+organic+gardening&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwi4xOTj6a7WAhVEKY8KHU09BgQQsAQIeQ&amp;biw=1280&amp;bih=615\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">For packages write to us: rlecodecor@gmail.com</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2i",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/terrace-gardening-kt-1305x771.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Starter kit",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Start your first kitchen garden. We are here in Mangalore &amp; Udupi to give service.&nbsp;</p><p>Starter Kit contains:</p><p>- 4 Opentop UV grow bags with Cocopeat, 4 packets soil, 4 packets organic Manure, 4 plastic use &amp; throw gloves</p><p>- &nbsp;1 packet Neem pellets, 1 seeding tray ready mixture, 200ml panchagavya, 200ml organic pesticide, Complementory hybrid vegitable seeds, Seeding / Sapling tray (small), Sprayer, Filter</p><p>- Manual with tips and growth tracker sheet. (Total 14 items)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/open?id=1yrkdJKiedb5YeAcrPkA_ns9Ag_jARTa0Bgtg28Ovys8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get In Touch</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-2g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJj0i_N0xaozsRZP78dHq8e4I",
+              "address": "Mangallore, Karnataka",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Mangalore, Karnataka<br><br>\n<strong>CONTACTS</strong><br>\nEmail: rlecodecor@gmail.com<br>\nPhone: +91 7090714676<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Facebook</li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Riviera Lofts. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    }
+  }
+}
