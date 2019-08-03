@@ -2254,7 +2254,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "Metro Woods, \nBangallore, Karnataka\n",
+              "address": "\nRT nabagr\nBangallore, Karnataka\n",
               "placeId": "",
               "state": "loading"
             }
